@@ -2,8 +2,9 @@
 
 Hello there, my name is Josué and I'm working hard to be a great Python developer, right know I'm working on some private web projects with flask framework!
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joisgori)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **joisgori/joisgori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
